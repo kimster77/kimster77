@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimster77
-- 💞️ I work in solving business problems with data analytic/ML & like to collaborate in this sapce
+- 💞️ I work in solving business problems with data analytics and ML & like to collaborate in this sapce
 - 📫 How to reach me: mani.k@berkeley.edu
 
 <!---
